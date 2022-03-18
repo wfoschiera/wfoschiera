@@ -8,7 +8,7 @@
 
 - Fui servidor público de 2006-2021, atuando em diversas frentes. Nos últimos anos estava focado em cartografia, utilizando principalmente ferramentas livres como o QGIS para o mapeamento de municípios brasileiros.
 
-- Hoje sou dev na (Buser)[buser.com.br] onde nossa stack principal é Python, Django e VueJs.
+- No final de 2021 fiz a transição de carreira para tecnologia. Hoje sou dev na [Buser](buser.com.br) onde nossa stack principal é Python, Django e VueJs.
 
 ### 📫 Contatos: <div>
   <a href = "mailto:meuusername@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
