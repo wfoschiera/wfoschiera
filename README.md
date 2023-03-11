@@ -6,9 +6,9 @@
 
 - Sou licenciado em Matemática (UNEMAT/2012) e mestre em Sensoriamento Remoto (INPE/2015).
 
-- Fui servidor público de 2006-2021, atuando em diversas frentes. Nos últimos anos estava focado em cartografia, utilizando principalmente ferramentas livres como o QGIS para o mapeamento de municípios brasileiros.
+- Fui servidor público de 2006-2021, atuando em diversas frentes. Liderei times de 2 a ~130 colaboradores. Coordenei os Censo de 2006, 2010 e 2017, conduzindo reuniões com diversas lideranças municipais, prefeitos e vereadores. Desde 2009 também atuei na atualização cartográfica. No período de 2015-2021 supervisionei e coordenei trabalhos cartográficos e ministrei cursos in-office sobre a ferramenta QGIS. Os resultados desses trabalhos podem ser vistos na página [oficial do IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=cartas_e_mapas/mapas_para_fins_de_levantamentos_estatisticos/).
 
-- No final de 2021 fiz a transição de carreira para tecnologia. Hoje sou dev na [Buser](buser.com.br) onde nossa stack principal é Python, Django e VueJs.
+- No final de 2021 fiz a transição de carreira para tecnologia. Hoje sou dev na [Buser](buser.com.br), resolvendo problemas relacionados a precificação e rotas, principalmente. Minha stack principal é Python, Django + Django_ninja e VueJs. 
 
 ### 📫 Contatos: <div>
   <a href = "mailto:wfoschiera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
