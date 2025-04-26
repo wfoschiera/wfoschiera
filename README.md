@@ -6,9 +6,10 @@
 
 - Sou licenciado em Matemática (UNEMAT/2012) e mestre em Sensoriamento Remoto (INPE/2015).
 
-- Fui servidor público de 2006-2021, atuando em diversas frentes. Liderei times de 2 a ~130 colaboradores. Coordenei os Censo de 2006, 2010 e 2017, conduzindo reuniões com diversas lideranças municipais, prefeitos e vereadores. Desde 2009 também atuei na atualização cartográfica. No período de 2015-2021 supervisionei e coordenei trabalhos cartográficos e ministrei cursos in-office sobre a ferramenta QGIS. Os resultados desses trabalhos podem ser vistos na página [oficial do IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=cartas_e_mapas/mapas_para_fins_de_levantamentos_estatisticos/).
+- Fiz transição de carreira para tecnologia em outubro de 2021. Atualmente, sou líder técnico do time de planejamento na [Buser](buser.com.br), onde somos 2 desenvolvedores e 2 cientistas de dados. Resolvo problemas relacionados à eficiência operacional, otimização de processos e automação de fluxos. Minha stack principal é Python com Django e VueJs. 
+  
+- Antes da transição, fui servidor público federal pelo Instituto Brasileiro de Geografia e Estatística (IBGE) entre 2006 e 2021. Nesse tempo, atuei em diversas frentes. Liderei times de 2 a ~130 colaboradores, em times responsáveis pela rotina do dia a dia de uma agência de coleta, até times inteiros para a coleta e supervisão de dados censitários. Fui coordenador local nos Censos de 2006, 2010 e 2017. Ainda no IBGE, desde 2009, atuei na atualização cartográfica e entre 2015 e 2021 supervisionei e coordenei trabalhos cartográficos e ministrei cursos in-office sobre a ferramenta QGIS para o time estadual. Os resultados desses trabalhos podem ser vistos na página [oficial do IBGE](https://www.ibge.gov.br/geociencias/downloads-geociencias.html?caminho=cartas_e_mapas/mapas_para_fins_de_levantamentos_estatisticos/).
 
-- No final de 2021 fiz a transição de carreira para tecnologia. Hoje sou dev na [Buser](buser.com.br), resolvendo problemas relacionados a precificação e rotas, principalmente. Minha stack principal é Python, Django + Django_ninja e VueJs. 
 
 ### 📫 Contatos: <div>
   <a href = "mailto:wfoschiera@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -28,8 +29,6 @@
 <div style="display: inline_block"><br>
   <code><img height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></code>
   <code><img height="30" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></code>
-  <code><img height="30" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></code>
+  <code><img height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></code>
   <code><img height="30" src="https://img.shields.io/badge/Metabase-2CA5E0?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/></code>
